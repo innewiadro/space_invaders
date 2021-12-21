@@ -1,6 +1,6 @@
-# space_invaders
-This is simple game from tutorial. Link to tutorial https://www.youtube.com/watch?v=Q-__8Xw9KTM
+# Space Invaders
+This is simple game written in python from tutorial. Link to tutorial https://www.youtube.com/watch?v=Q-__8Xw9KTM
 
-# Inststucions:
+# Instructions:
 * movment - wsad 
-* shot -space
+* shot - space
